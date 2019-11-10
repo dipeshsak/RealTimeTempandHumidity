@@ -21,10 +21,10 @@
 #include <FirebaseArduino.h>
 
 // Set these to run example.
-#define FIREBASE_HOST "nodemcudemo2-1d734.firebaseio.com"
+#define FIREBASE_HOST "use your firebase hostname" 
 #define FIREBASE_AUTH ""
-#define WIFI_SSID "Patil Home"
-#define WIFI_PASSWORD "8169003654up"
+#define WIFI_SSID "use your Wifi name"
+#define WIFI_PASSWORD "use your pwd"
 
 void setup() {
   Serial.begin(9600);
